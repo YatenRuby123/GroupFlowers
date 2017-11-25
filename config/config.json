@@ -16,8 +16,9 @@
     "production": {
         "username": "w99uihb8zg4kx2fz",
         "password": "qvfixibrchs1u2gu",
-        "database": "flowers_bd",
+        "database": "ho5l30kloshm9tok",
         "host": "gk90usy5ik2otcvi.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-        "dialect": "mysql"
+        "dialect": "mysql",
+        "use_env_variable": "mysql://w99uihb8zg4kx2fz:qvfixibrchs1u2gu@gk90usy5ik2otcvi.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ho5l30kloshm9tok"
     }
 }
