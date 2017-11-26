@@ -19,7 +19,7 @@
         "database": "ho5l30kloshm9tok",
         "host": "gk90usy5ik2otcvi.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
         "dialect": "mysql",
-        "use_env_variable": "JAWSDB_URL"
+        "use_env_variable": "mysql://w99uihb8zg4kx2fz:qvfixibrchs1u2gu@gk90usy5ik2otcvi.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ho5l30kloshm9tok"
             // "use_env_variable": "mysql://w99uihb8zg4kx2fz:qvfixibrchs1u2gu@gk90usy5ik2otcvi.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ho5l30kloshm9tok"
     }
 }
